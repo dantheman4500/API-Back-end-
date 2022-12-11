@@ -2,7 +2,7 @@
 
 # Description
 
-This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
+This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and Moment.js to format timestamps. The seed data is created using Insomnia.
 
 # Screenshot
 ![webpage screenshot](./video/ezgif.com-gif-maker.gif)
